@@ -1,5 +1,9 @@
-Vector Skin
+PolymorphVector Skin
 ========================
+
+Info
+----
+PolymorphVector is a modified Vector Skin for use on Polymorph Games' Foundation Wiki (https://wiki.polymorph.game). 
 
 Installation
 ------------
